@@ -1,0 +1,1 @@
+Projeto mais completo para trabalhar com FastAPI e estudar
